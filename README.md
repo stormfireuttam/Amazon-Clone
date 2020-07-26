@@ -1,0 +1,2 @@
+# Amazon-Clone
+ This project is an approach to clone the Amazon shopping procedure. In this project we have the functionality to add items, remove items, user authentication as well as calculation of total price. It is a single page app and is made with ReactJS with the help of libraries namely react-router-dom, react-context and react-currency-format. For frontend Material UI has been used as well. For user authentication Firebase authentication service has been used. The project has been deployed live with the help of firebase hosting service. 
